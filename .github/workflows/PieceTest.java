@@ -1,4 +1,4 @@
-package prog2.tests.tetris.pub;
+package prog2-tests.tetris.pub;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
