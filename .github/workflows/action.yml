@@ -1,5 +1,7 @@
 name: 'test'
+description: 'Egghead - Create a New Github Action with Javascript'
+author: 'Colby Fayock <hello@colbyfayock.com>'
 
 runs:
-  using: 'JDK'
+  using: 'node12'
   main: 'AutoPlayerTest.java'
