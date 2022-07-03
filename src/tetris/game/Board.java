@@ -45,7 +45,7 @@ public interface Board {
 	 *             if the piece cannot be added, e.g. canAddPiece returns false,
 	 *             or the given piece is null.
 	 */
-	public void addPiece(Piece piece, int row, int column);
+	public void addPiece(Piece piec, int row, int column);
 
 	/**
 	 * Checks if the piece can be added, e.g. the coordinates are on the board,
