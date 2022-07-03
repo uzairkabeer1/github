@@ -28,7 +28,7 @@ public interface Board {
 	 *
 	 * @return the number of columns of the board
 	 */
-	public int getNumberOfColumns();
+	public int getNumberOfColumn();
 
 	/**
 	 * Adds a piece at the given row and column.
